@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://crowpond.github.io/docs/"><img src="assets/hero.svg" alt="crowpond: a lake you can read to the bottom" width="100%"></a>
+  <a href="https://crowpond.github.io/docs/"><img src="../assets/hero.svg" alt="crowpond: a lake you can read to the bottom" width="100%"></a>
 </p>
 
 <p align="center">
